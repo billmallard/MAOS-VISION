@@ -89,6 +89,10 @@ Near-term milestones:
 4. Stand up a minimal playback pipeline for latency and dropout experiments.
 5. Define first scenario-based verification matrix for degraded visibility modes.
 
+## Knowledge Migration
+
+- Article-derived subsystem migration notes: `docs/ARTICLE_KNOWLEDGE_MIGRATION_2026Q2.md`
+
 ## Licensing
 
 This repository uses a dual-license model:
